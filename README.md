@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Aditya M Betdur.
+### Matriculation number : 86526.
+### About me
+I am a Master Student at University of Passau, pursuing my masters in Informatics.
+
 
 <!--
 **betdur02/betdur02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
